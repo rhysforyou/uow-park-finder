@@ -1,1 +1,3 @@
-Download the ZIP to get started with Ember.js: <https://github.com/emberjs/starter-kit/downloads>
+# UOW Park Finder
+
+A quick little mobile web app I put together to help myself find a park at the University of Wollongong. Built on top of Ember.js and Ratchet.
