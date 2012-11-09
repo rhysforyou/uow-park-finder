@@ -1,13 +1,13 @@
+body, .content {
+  background: #eee;
+}
+
 ul.list {
   margin-top: 10px;
 }
 
 ul.list li {
   padding: 13px 10px;
-}
-
-.content {
-  background: #eee;
 }
 
 .space {
